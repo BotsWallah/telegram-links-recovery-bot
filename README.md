@@ -10,4 +10,8 @@
 4) Thats it if you are facing any issues or have any suggestions to improve the repo any further dm @Aakash1230 On telegram :)<br>
 
 
+<b>Variables for the bot</b><br>
 
+1) BOT_TOKEN - Get from Botfather<br>
+2) APP_ID - Get from my.telegram.org<br>
+3) API_HASH - Get from my.telegram.org<br>

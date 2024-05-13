@@ -14,4 +14,9 @@
 
 1) BOT_TOKEN - Get from Botfather<br>
 2) APP_ID - Get from my.telegram.org<br>
-3) API_HASH - Get from my.telegram.org<br>
+3) API_HASH - Get from my.telegram.org<br><br><br>
+
+
+I dont expect everyone to give me credits for the bot if possible please give @Aakash1230 credits :><br>
+<b> Star The repo if you liked it!!</b><br>
+<b>Join <a href="https://t.me/The_Bots_Wallah">Our Bots Channel </a> For more usefull bots!!</b><br>

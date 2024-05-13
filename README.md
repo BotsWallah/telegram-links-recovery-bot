@@ -7,7 +7,8 @@
 1) The Bot token must the token of the controller bot you made the post with. or else you will face issues<br>
 2) You have to reply to the button post to execute the command.<br>
 3) The command must be as follows /replace old_bot_name new_bot_name<br>
-4) Thats it if you are facing any issues or have any suggestions to improve the repo any further dm <a href="https://t.me/Aakash1230">@Aakash1230</a> On telegram :)<br>
+4) The New Bots File Database should be the same as the old one or it will send some random files.
+5) Thats it if you are facing any issues or have any suggestions to improve the repo any further dm <a href="https://t.me/Aakash1230">@Aakash1230</a> On telegram :)<br>
 
 
 <b>Variables for the bot</b><br>

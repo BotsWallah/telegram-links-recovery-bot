@@ -17,6 +17,8 @@
 2) APP_ID - Get from my.telegram.org<br>
 3) API_HASH - Get from my.telegram.org<br><br><br>
 
+
+<hr>
 <b> If you find any bugs in the bot Report them to me! I will fix them as soon as possible.</b> <br><br>
 I dont expect everyone to give me credits for the bot if possible please give @Aakash1230 credits :><br><br>
 <b> Star The repo if you liked it!!</b><br><br>
